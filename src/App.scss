@@ -1,0 +1,36 @@
+// Declare color variables
+$gray: #E6E9F4;
+$white: #FFFFFF;
+$black: #000000;
+$light-blue: #5FBBEF;
+$light-gray: #F5F6FA;
+$dark-gray: #969696;
+$blue: #0074C0;
+$border-radius: 5px;
+$box-shadow: 0 0.2rem 1rem rgba($black, 0.15);
+
+.app {
+  background-color: $gray;
+  min-height: 100vh;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  background-color: $light-blue;
+  transition: background-color 0.4s ease;
+  color: $white;
+  outline: none;
+  border-radius: 20px;
+  font-weight: 700;
+  padding: 10px 15px;
+}
+
+button:hover, button:focus {
+  outline: none;
+  background-color: $blue;
+}
+
+button:disabled {
+  background-color: $dark-gray;
+}

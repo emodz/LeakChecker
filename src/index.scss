@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Work Sans';
+  src: local('Work Sans'), url(/WorkSans-VariableFont_wght.ttf) format('woff');
+}
+
+body, input, button, select {
+  margin: 0;
+  font-family: 'Work Sans', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
