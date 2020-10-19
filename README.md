@@ -19,6 +19,7 @@ By [Eric Modzelewski](mailto:hi@emodz.info)
 I used the following technologies: HTML, CSS, React, Express, axios, React Router.
 I used [create-react-app](https://goo.gl/26jfy4)
 to generate the scaffolding for this app.
-I used as much semantic html as possible to ensure that the website is as accesible as possible. The user should be able to use the full application with just a keyboard.
+I used as much semantic html as possible to ensure that the website is as accesible as possible. The user should be able to use the full application with just a keyboard. 
+A node server was setup to act as a proxy and make the API requests.
 I attempted to create a test in Login.test.js but was unable to resolve an issue at this moment.
 
