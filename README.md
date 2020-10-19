@@ -1,4 +1,5 @@
 # Leak Checker
+#### Challenge: Develop a UI to present the following data in a way you feel is useful for the user.
 
 By [Eric Modzelewski](mailto:hi@emodz.info)
 
@@ -19,6 +20,4 @@ I used the following technologies: HTML, CSS, React, Express, axios, React Route
 I used [create-react-app](https://goo.gl/26jfy4)
 to generate the scaffolding for this app.
 I attempted to create a test in Login.test.js but was unable to resolve an issue at this moment.
-
-#### Challenge: Develop a UI to present the following data in a way you feel is useful for the user.
 
